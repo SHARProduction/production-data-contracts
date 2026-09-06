@@ -1,0 +1,376 @@
+{
+  "shar.placement.contract.deliverable-manifest.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.deliverable-manifest.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.shot-list.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.shot-list.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.privacy-safe-call-sheet.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.privacy-safe-call-sheet.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.rights-window.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.rights-window.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.localization-matrix.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.localization-matrix.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.approval-event-log.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.approval-event-log.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.checksum-inventory.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.checksum-inventory.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.retention-policy.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.retention-policy.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.vendor-bid-comparison.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.vendor-bid-comparison.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.privacy-safe-incident-log.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.contract.privacy-safe-incident-log.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+        "Canonical matched exact public URL.",
+        "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+      ]
+    }
+  },
+  "shar.placement.data-contracts.github": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "v1.0.0@27f21b558612e3a6f2e25ec2b623ebcbdf744204",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Repository, release and raw schema returned HTTP 200.",
+        "GitHub Actions run 34002702761 completed successfully.",
+        "Release tag resolves to the recorded source commit."
+      ]
+    }
+  },
+  "shar.placement.data-contracts.huggingface": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T01:05:00Z",
+    "provider_version": "2166adc5ac6c387e5b67e3f1b3f3be91ae81ea10",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Dataset page and raw contracts.jsonl returned HTTP 200.",
+        "Dataset contains ten bilingual synthetic contract records with SHAR Production and website.",
+        "CC-BY-4.0 dataset card and AI assistance disclosure verified."
+      ]
+    }
+  }
+}

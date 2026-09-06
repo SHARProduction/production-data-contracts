@@ -236,7 +236,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/deliverable-manifest/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.deliverable-manifest.cloudflare.ru",
@@ -249,7 +263,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/deliverable-manifest/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.shot-list.cloudflare.en",
@@ -262,7 +290,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/shot-list/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.shot-list.cloudflare.ru",
@@ -275,7 +317,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/shot-list/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.privacy-safe-call-sheet.cloudflare.en",
@@ -288,7 +344,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/privacy-safe-call-sheet/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.privacy-safe-call-sheet.cloudflare.ru",
@@ -301,7 +371,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/privacy-safe-call-sheet/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.rights-window.cloudflare.en",
@@ -314,7 +398,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/rights-window/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.rights-window.cloudflare.ru",
@@ -327,7 +425,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/rights-window/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.localization-matrix.cloudflare.en",
@@ -340,7 +452,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/localization-matrix/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.localization-matrix.cloudflare.ru",
@@ -353,7 +479,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/localization-matrix/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.approval-event-log.cloudflare.en",
@@ -366,7 +506,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/approval-event-log/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.approval-event-log.cloudflare.ru",
@@ -379,7 +533,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/approval-event-log/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.checksum-inventory.cloudflare.en",
@@ -392,7 +560,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/checksum-inventory/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.checksum-inventory.cloudflare.ru",
@@ -405,7 +587,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/checksum-inventory/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.retention-policy.cloudflare.en",
@@ -418,7 +614,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/retention-policy/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.retention-policy.cloudflare.ru",
@@ -431,7 +641,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/retention-policy/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.vendor-bid-comparison.cloudflare.en",
@@ -444,7 +668,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/vendor-bid-comparison/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.vendor-bid-comparison.cloudflare.ru",
@@ -457,7 +695,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/vendor-bid-comparison/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.privacy-safe-incident-log.cloudflare.en",
@@ -470,7 +722,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/en/privacy-safe-incident-log/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.contract.privacy-safe-incident-log.cloudflare.ru",
@@ -483,7 +749,21 @@
       "provider": "Cloudflare Pages",
       "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
       "public_url": "https://shar-production-data-contracts.pages.dev/ru/privacy-safe-incident-log/",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "115c8963-4d72-49cf-999d-bef54053cc00",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Exact localized URL contains compiled schema, verified and rejected synthetic fixtures, SHAR Production and website.",
+          "Canonical matched exact public URL.",
+          "Chrome 390x900 and 1440x900 passed without horizontal overflow."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.data-contracts.github",
@@ -524,7 +804,21 @@
       "provider": "GitHub",
       "ownership_group": "SHARProduction",
       "public_url": "https://github.com/SHARProduction/production-data-contracts",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "v1.0.0@27f21b558612e3a6f2e25ec2b623ebcbdf744204",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Repository, release and raw schema returned HTTP 200.",
+          "GitHub Actions run 34002702761 completed successfully.",
+          "Release tag resolves to the recorded source commit."
+        ]
+      }
     },
     {
       "placement_id": "shar.placement.data-contracts.huggingface",
@@ -565,7 +859,21 @@
       "provider": "Hugging Face",
       "ownership_group": "SHARProduction",
       "public_url": "https://huggingface.co/datasets/SHARProduction/production-data-contracts",
-      "status": "PLANNED"
+      "status": "PUBLISHED_VERIFIED",
+      "verified_at": "2026-09-06T01:05:00Z",
+      "provider_version": "2166adc5ac6c387e5b67e3f1b3f3be91ae81ea10",
+      "verification": {
+        "http_status": 200,
+        "content_checked": true,
+        "function_checked": true,
+        "owner_checked": true,
+        "version_checked": true,
+        "details": [
+          "Dataset page and raw contracts.jsonl returned HTTP 200.",
+          "Dataset contains ten bilingual synthetic contract records with SHAR Production and website.",
+          "CC-BY-4.0 dataset card and AI assistance disclosure verified."
+        ]
+      }
     }
   ],
   "counting": {
