@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sharprod.com/schemas/vendor-bid-comparison.schema.json",
+  "title": "SHAR Production Vendor Bid Comparison Contract",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$"
+    },
+    "bids": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "vendor_ref",
+          "total",
+          "scope_score"
+        ],
+        "properties": {
+          "vendor_ref": {
+            "type": "string",
+            "pattern": "^vendor-[a-z0-9-]+$"
+          },
+          "total": {
+            "type": "number",
+            "minimum": 0
+          },
+          "scope_score": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "currency",
+    "bids"
+  ]
+}

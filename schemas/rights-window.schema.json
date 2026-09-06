@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sharprod.com/schemas/rights-window.schema.json",
+  "title": "SHAR Production Rights Window Contract",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "asset_id": {
+      "type": "string"
+    },
+    "territory": {
+      "type": "string",
+      "pattern": "^(?:[A-Z]{2}|WORLD)$"
+    },
+    "starts_at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "ends_at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  },
+  "required": [
+    "asset_id",
+    "territory",
+    "starts_at",
+    "ends_at"
+  ]
+}

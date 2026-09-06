@@ -1,0 +1,10 @@
+{
+  "subject_id": "synthetic-master",
+  "events": [
+    {
+      "at": "today",
+      "stage": "master",
+      "decision": "yes"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "project_id": "synthetic-film",
+  "shots": [
+    {
+      "shot_id": "S001",
+      "duration_seconds": 0,
+      "status": "planned"
+    }
+  ]
+}

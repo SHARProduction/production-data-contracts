@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sharprod.com/schemas/retention-policy.schema.json",
+  "title": "SHAR Production Retention Policy Contract",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "asset_class": {
+      "enum": [
+        "working",
+        "master",
+        "legal",
+        "proxy"
+      ]
+    },
+    "retain_until": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "terminal_action": {
+      "enum": [
+        "review",
+        "archive",
+        "delete"
+      ]
+    }
+  },
+  "required": [
+    "asset_class",
+    "retain_until",
+    "terminal_action"
+  ]
+}

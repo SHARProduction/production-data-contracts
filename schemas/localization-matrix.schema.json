@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sharprod.com/schemas/localization-matrix.schema.json",
+  "title": "SHAR Production Localization Matrix Contract",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "master_id": {
+      "type": "string"
+    },
+    "locales": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "tag",
+          "audio",
+          "subtitles"
+        ],
+        "properties": {
+          "tag": {
+            "type": "string",
+            "pattern": "^[a-z]{2}(?:-[A-Z]{2})?$"
+          },
+          "audio": {
+            "type": "boolean"
+          },
+          "subtitles": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "master_id",
+    "locales"
+  ]
+}

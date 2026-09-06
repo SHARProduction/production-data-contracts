@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "incremental_spend_rub": 0,
+  "release": {
+    "release_id": "shar.release.data-contracts.1.0.0",
+    "version": "1.0.0",
+    "immutable_ref": "v1.0.0"
+  },
+  "works": [
+    {
+      "work_id": "shar.work.contract.deliverable-manifest",
+      "title": {
+        "en": "Deliverable Manifest",
+        "ru": "Манифест материалов"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.shot-list",
+      "title": {
+        "en": "Shot List",
+        "ru": "Шот-лист"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.privacy-safe-call-sheet",
+      "title": {
+        "en": "Privacy-safe Call Sheet",
+        "ru": "Call sheet без персональных данных"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.rights-window",
+      "title": {
+        "en": "Rights Window",
+        "ru": "Окно прав"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.localization-matrix",
+      "title": {
+        "en": "Localization Matrix",
+        "ru": "Матрица локализации"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.approval-event-log",
+      "title": {
+        "en": "Approval Event Log",
+        "ru": "Журнал согласований"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.checksum-inventory",
+      "title": {
+        "en": "Checksum Inventory",
+        "ru": "Реестр контрольных сумм"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.retention-policy",
+      "title": {
+        "en": "Retention Policy",
+        "ru": "Политика хранения"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.vendor-bid-comparison",
+      "title": {
+        "en": "Vendor Bid Comparison",
+        "ru": "Сравнение предложений подрядчиков"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.contract.privacy-safe-incident-log",
+      "title": {
+        "en": "Privacy-safe Incident Log",
+        "ru": "Журнал инцидентов без персональных данных"
+      },
+      "license": "MIT",
+      "fixtures_license": "CC-BY-4.0"
+    }
+  ],
+  "representations": [
+    {
+      "representation_id": "shar.representation.contract.deliverable-manifest.en",
+      "work_id": "shar.work.contract.deliverable-manifest",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.deliverable-manifest.ru",
+      "work_id": "shar.work.contract.deliverable-manifest",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.shot-list.en",
+      "work_id": "shar.work.contract.shot-list",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.shot-list.ru",
+      "work_id": "shar.work.contract.shot-list",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.privacy-safe-call-sheet.en",
+      "work_id": "shar.work.contract.privacy-safe-call-sheet",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.privacy-safe-call-sheet.ru",
+      "work_id": "shar.work.contract.privacy-safe-call-sheet",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.rights-window.en",
+      "work_id": "shar.work.contract.rights-window",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.rights-window.ru",
+      "work_id": "shar.work.contract.rights-window",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.localization-matrix.en",
+      "work_id": "shar.work.contract.localization-matrix",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.localization-matrix.ru",
+      "work_id": "shar.work.contract.localization-matrix",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.approval-event-log.en",
+      "work_id": "shar.work.contract.approval-event-log",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.approval-event-log.ru",
+      "work_id": "shar.work.contract.approval-event-log",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.checksum-inventory.en",
+      "work_id": "shar.work.contract.checksum-inventory",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.checksum-inventory.ru",
+      "work_id": "shar.work.contract.checksum-inventory",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.retention-policy.en",
+      "work_id": "shar.work.contract.retention-policy",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.retention-policy.ru",
+      "work_id": "shar.work.contract.retention-policy",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.vendor-bid-comparison.en",
+      "work_id": "shar.work.contract.vendor-bid-comparison",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.vendor-bid-comparison.ru",
+      "work_id": "shar.work.contract.vendor-bid-comparison",
+      "language": "ru",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.privacy-safe-incident-log.en",
+      "work_id": "shar.work.contract.privacy-safe-incident-log",
+      "language": "en",
+      "format": "html"
+    },
+    {
+      "representation_id": "shar.representation.contract.privacy-safe-incident-log.ru",
+      "work_id": "shar.work.contract.privacy-safe-incident-log",
+      "language": "ru",
+      "format": "html"
+    }
+  ],
+  "placements": [
+    {
+      "placement_id": "shar.placement.contract.deliverable-manifest.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.deliverable-manifest"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.deliverable-manifest.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/deliverable-manifest/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.deliverable-manifest.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.deliverable-manifest"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.deliverable-manifest.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/deliverable-manifest/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.shot-list.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.shot-list"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.shot-list.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/shot-list/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.shot-list.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.shot-list"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.shot-list.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/shot-list/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.privacy-safe-call-sheet.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.privacy-safe-call-sheet"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.privacy-safe-call-sheet.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/privacy-safe-call-sheet/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.privacy-safe-call-sheet.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.privacy-safe-call-sheet"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.privacy-safe-call-sheet.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/privacy-safe-call-sheet/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.rights-window.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.rights-window"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.rights-window.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/rights-window/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.rights-window.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.rights-window"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.rights-window.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/rights-window/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.localization-matrix.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.localization-matrix"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.localization-matrix.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/localization-matrix/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.localization-matrix.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.localization-matrix"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.localization-matrix.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/localization-matrix/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.approval-event-log.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.approval-event-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.approval-event-log.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/approval-event-log/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.approval-event-log.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.approval-event-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.approval-event-log.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/approval-event-log/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.checksum-inventory.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.checksum-inventory"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.checksum-inventory.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/checksum-inventory/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.checksum-inventory.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.checksum-inventory"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.checksum-inventory.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/checksum-inventory/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.retention-policy.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.retention-policy"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.retention-policy.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/retention-policy/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.retention-policy.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.retention-policy"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.retention-policy.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/retention-policy/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.vendor-bid-comparison.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.vendor-bid-comparison"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.vendor-bid-comparison.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/vendor-bid-comparison/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.vendor-bid-comparison.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.vendor-bid-comparison"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.vendor-bid-comparison.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/vendor-bid-comparison/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.privacy-safe-incident-log.cloudflare.en",
+      "work_ids": [
+        "shar.work.contract.privacy-safe-incident-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.privacy-safe-incident-log.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/en/privacy-safe-incident-log/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.contract.privacy-safe-incident-log.cloudflare.ru",
+      "work_ids": [
+        "shar.work.contract.privacy-safe-incident-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.privacy-safe-incident-log.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-data-contracts.pages.dev/ru/privacy-safe-incident-log/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.data-contracts.github",
+      "work_ids": [
+        "shar.work.contract.deliverable-manifest",
+        "shar.work.contract.shot-list",
+        "shar.work.contract.privacy-safe-call-sheet",
+        "shar.work.contract.rights-window",
+        "shar.work.contract.localization-matrix",
+        "shar.work.contract.approval-event-log",
+        "shar.work.contract.checksum-inventory",
+        "shar.work.contract.retention-policy",
+        "shar.work.contract.vendor-bid-comparison",
+        "shar.work.contract.privacy-safe-incident-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.deliverable-manifest.en",
+        "shar.representation.contract.deliverable-manifest.ru",
+        "shar.representation.contract.shot-list.en",
+        "shar.representation.contract.shot-list.ru",
+        "shar.representation.contract.privacy-safe-call-sheet.en",
+        "shar.representation.contract.privacy-safe-call-sheet.ru",
+        "shar.representation.contract.rights-window.en",
+        "shar.representation.contract.rights-window.ru",
+        "shar.representation.contract.localization-matrix.en",
+        "shar.representation.contract.localization-matrix.ru",
+        "shar.representation.contract.approval-event-log.en",
+        "shar.representation.contract.approval-event-log.ru",
+        "shar.representation.contract.checksum-inventory.en",
+        "shar.representation.contract.checksum-inventory.ru",
+        "shar.representation.contract.retention-policy.en",
+        "shar.representation.contract.retention-policy.ru",
+        "shar.representation.contract.vendor-bid-comparison.en",
+        "shar.representation.contract.vendor-bid-comparison.ru",
+        "shar.representation.contract.privacy-safe-incident-log.en",
+        "shar.representation.contract.privacy-safe-incident-log.ru"
+      ],
+      "provider": "GitHub",
+      "ownership_group": "SHARProduction",
+      "public_url": "https://github.com/SHARProduction/production-data-contracts",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.data-contracts.huggingface",
+      "work_ids": [
+        "shar.work.contract.deliverable-manifest",
+        "shar.work.contract.shot-list",
+        "shar.work.contract.privacy-safe-call-sheet",
+        "shar.work.contract.rights-window",
+        "shar.work.contract.localization-matrix",
+        "shar.work.contract.approval-event-log",
+        "shar.work.contract.checksum-inventory",
+        "shar.work.contract.retention-policy",
+        "shar.work.contract.vendor-bid-comparison",
+        "shar.work.contract.privacy-safe-incident-log"
+      ],
+      "representation_ids": [
+        "shar.representation.contract.deliverable-manifest.en",
+        "shar.representation.contract.deliverable-manifest.ru",
+        "shar.representation.contract.shot-list.en",
+        "shar.representation.contract.shot-list.ru",
+        "shar.representation.contract.privacy-safe-call-sheet.en",
+        "shar.representation.contract.privacy-safe-call-sheet.ru",
+        "shar.representation.contract.rights-window.en",
+        "shar.representation.contract.rights-window.ru",
+        "shar.representation.contract.localization-matrix.en",
+        "shar.representation.contract.localization-matrix.ru",
+        "shar.representation.contract.approval-event-log.en",
+        "shar.representation.contract.approval-event-log.ru",
+        "shar.representation.contract.checksum-inventory.en",
+        "shar.representation.contract.checksum-inventory.ru",
+        "shar.representation.contract.retention-policy.en",
+        "shar.representation.contract.retention-policy.ru",
+        "shar.representation.contract.vendor-bid-comparison.en",
+        "shar.representation.contract.vendor-bid-comparison.ru",
+        "shar.representation.contract.privacy-safe-incident-log.en",
+        "shar.representation.contract.privacy-safe-incident-log.ru"
+      ],
+      "provider": "Hugging Face",
+      "ownership_group": "SHARProduction",
+      "public_url": "https://huggingface.co/datasets/SHARProduction/production-data-contracts",
+      "status": "PLANNED"
+    }
+  ],
+  "counting": {
+    "unique_works": 10,
+    "localized_representations": 20,
+    "verified_placements_when_all_checks_pass": 22
+  }
+}

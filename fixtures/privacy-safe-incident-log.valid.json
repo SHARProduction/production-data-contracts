@@ -1,0 +1,7 @@
+{
+  "incident_id": "incident-synthetic-01",
+  "severity": "medium",
+  "occurred_at": "2026-09-06T11:00:00Z",
+  "status": "contained",
+  "personal_data_present": false
+}

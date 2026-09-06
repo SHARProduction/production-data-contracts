@@ -1,0 +1,10 @@
+{
+  "master_id": "master-synthetic",
+  "locales": [
+    {
+      "tag": "ru-RU",
+      "audio": true,
+      "subtitles": true
+    }
+  ]
+}

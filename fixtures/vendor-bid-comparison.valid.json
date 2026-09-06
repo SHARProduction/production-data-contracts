@@ -1,0 +1,15 @@
+{
+  "currency": "RUB",
+  "bids": [
+    {
+      "vendor_ref": "vendor-alpha",
+      "total": 100000,
+      "scope_score": 82
+    },
+    {
+      "vendor_ref": "vendor-beta",
+      "total": 120000,
+      "scope_score": 91
+    }
+  ]
+}

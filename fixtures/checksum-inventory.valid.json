@@ -1,0 +1,9 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "masters/final.mov",
+      "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    }
+  ]
+}

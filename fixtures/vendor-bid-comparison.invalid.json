@@ -1,0 +1,10 @@
+{
+  "currency": "rub",
+  "bids": [
+    {
+      "vendor_ref": "Real Company",
+      "total": -1,
+      "scope_score": 101
+    }
+  ]
+}
